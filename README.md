@@ -1,4 +1,4 @@
-# Yeti Game
+# Yeti
 
 [![Project Status: Completed](./Assets/Badges/Status.svg)](./)
 
